@@ -136,3 +136,8 @@
 // array.forEach((a)=>{
 //     console.log(a);
 // })
+
+
+// let Name = "Sriramula Gopi";
+// console.log(Name.toLowerCase());
+// console.log(Name.toUpperCase());
